@@ -4,5 +4,6 @@ This interface is a grocery interface. It shows the name of the pineapple and it
 
 
 
-![pineapple_light](https://github.com/isikkayaa/Grocery-UI/assets/102810563/647374bd-1dff-41a6-90f4-1817f93adb8d)
+![pineapple_light](https://github.com/isikkayaa/Grocery-UI/assets/102810563/ce30f2f8-a461-4605-a647-9d72eed638f8)
+
 ![pineapple_dark](https://github.com/isikkayaa/Grocery-UI/assets/102810563/73cbd1e8-1688-42fe-a8af-919454918baf)
