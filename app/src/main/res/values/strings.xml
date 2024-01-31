@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Grocery</string>
+    <string name="pineappleName">Queen Pineapple</string>
+    <string name="pineappleAciklama">The Queen pineapple is a highly valued variety of pineapple that is known for its sweet, juicy and succulent flesh.</string>
+    <string name="eksi">-</string>
+    <string name="bir">1</string>
+    <string name="arti">+</string>
+    <string name="toplamFiyat">Total:</string>
+    <string name="fiyat">$25,50</string>
+    <string name="buttonYazi">ADD TO CART</string>
+
+
+
+</resources>

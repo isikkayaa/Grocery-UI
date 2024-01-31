@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Manav</string>
+    <string name="pineappleName">Kraliçe Ananas</string>
+    <string name="pineappleAciklama">Kraliçe ananas, tatlı, sulu ve etli etiyle bilinen çok değerli bir ananas çeşididir.</string>
+    <string name="eksi">-</string>
+    <string name="bir">1</string>
+    <string name="arti">+</string>
+    <string name="toplamFiyat">Toplam:</string>
+    <string name="fiyat">500 tl</string>
+    <string name="buttonYazi">SEPETE EKLE</string>
+
+
+
+</resources>
